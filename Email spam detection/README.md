@@ -23,6 +23,8 @@ The dataset used is `mail_data.csv`, which contains two columns:
 - `Category`: Indicates whether the message is spam (0) or ham (1).
 - `Message`: The text content of the message.
 
+You can download the dataset from [this link](https://drive.google.com/drive/folders/1bRuM2RJ3CGD5_PtnIr7jVbC5kOJW5o6x).
+
 ## Steps
 
 1. **Load the Data**:
